@@ -11,6 +11,7 @@ Normally, the program captures one frame per second. However, when motion is det
 ## Installation
 
 ### OS X
+
 Install Go from https://golang.org/doc/install
 
     brew install ffmpeg
