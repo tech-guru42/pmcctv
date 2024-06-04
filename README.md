@@ -9,7 +9,6 @@ Optionally, a Go worker can be setup to automatically upload the frames to a rem
 Normally, the program captures one frame per second. However, when motion is detected, a "burst mode" is activated, in which case frames will be captured as fast as possible for the next 10 seconds, or for as long as motion is being detected.
 
 ## Installation
-
 ### OS X
 Install Go from https://golang.org/doc/install
 
